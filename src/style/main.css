@@ -1,0 +1,9 @@
+.todoTitles{
+  display: flex;
+  flex-direction: column;
+}
+
+.todoTitlesChildOne{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
